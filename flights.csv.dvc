@@ -1,0 +1,6 @@
+outs:
+- md5: dd7bf348722f7c30bec3e944b98af92f
+  size: 8382
+  isexec: true
+  hash: md5
+  path: flights.csv

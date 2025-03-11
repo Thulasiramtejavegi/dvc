@@ -1,0 +1,5 @@
+outs:
+- md5: d9347c5655b19c7ef38dd00c0a3408ed
+  size: 18250
+  hash: md5
+  path: feature_importance.png

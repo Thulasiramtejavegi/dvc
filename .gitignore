@@ -1,0 +1,9 @@
+/extract_data.csv
+/feature_importance.png
+/flights.csv
+/mock_data.csv
+/trained_model.pkl
+/transformed_data.pkl
+.dvc/config
+/mock_data1.csv
+.dvc/config
